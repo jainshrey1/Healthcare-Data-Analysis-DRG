@@ -1,13 +1,13 @@
 # Healthcare-Data-Analysis-DRG
 
 
-Overview: 
+# Overview: 
 
 I have created a Tableau Dashboard that provides information about the DRGs in the country of U.S.A. The dataset which we have used for this term project gives us the information about the disease treated in a particular hospital in U.S.A from years 2011-2015. This dataset has key metric information such as Body System Impacted, hospital details, financial figures, and health trends over the year. The aim is to get meaningful information insights through different visualization. 
 
  
 
-About the DRGs in Health Care Analytics: 
+# About the DRGs in Health Care Analytics: 
 
 Here is why DRG is used in healthcare industry: 
 
@@ -27,7 +27,7 @@ DRG data is used by researchers and policymakers in the health care industry to 
 
  
 
-Overview about the Dataset: 
+# Overview about the Dataset: 
 
 The data which we have used for our term project is publicly available on government data sites. 
 
@@ -75,7 +75,7 @@ Total Discharges : The amount of coverage released by the hospital provider.
 
  
 
-Purpose: 
+# Purpose: 
 
 The purpose of this visualization is: 
 
@@ -95,7 +95,7 @@ Q6. What are the total discharges by state hospital & time?
 
  
 
-Who will use it and what are their goals: 
+# Who will use it and what are their goals: 
 
 It is aimed for the users who know about their disease and want more information. 
 
@@ -113,7 +113,7 @@ Users who have knowledge of different states of the United States and know the a
 
  
 
-How did I fulfill the goals? 
+# How did I fulfill the goals? 
 
 I used Tableau dashboards and charts to answer the above questions. Also I have used different charts like bar chart, tree map, choropleth map, geo spatial map, boxplot so that the user can look at the display and analyze the information quickly and effectively. 
 
@@ -122,7 +122,7 @@ I used Tableau dashboards and charts to answer the above questions. Also I have 
  
 
 
-Conclusion: 
+# Conclusion: 
 
 In conclusion, my comprehensive analysis of all discharges across U.S.A, hospitals, and time reveals nuanced understandings of health care dynamics. Combining GEO maps, line charts, and bar graphs, box plot the integrated visualization provides a multidimensional view of the distribution and trends in health care delivery. 
 
