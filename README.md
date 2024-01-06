@@ -1,5 +1,4 @@
 # Healthcare-Data-Analysis-DRG
-DATA230 Data Visualization Term Project Report 
 
 
 Overview: 
